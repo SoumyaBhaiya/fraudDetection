@@ -11,7 +11,7 @@ import numpy as np
 import joblib
 import time
 
-model = joblib.load("fraud_model.pkl")
+model = joblib.load("fraud_model.pkl") 
 
 st.title("Real-Time Fraud Detection Dashboard")
 
