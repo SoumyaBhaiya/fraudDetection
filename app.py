@@ -49,7 +49,7 @@ while True:
         st.write("FRAUD" if pred==1 else "LEGIT")
         st.write(f"Fraud Probability: {prob:.2f}")
 
-    time.sleep(5)
+    time.sleep(5)   
 
 
 # =============================
