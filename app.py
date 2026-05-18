@@ -51,7 +51,7 @@ while True:
 
     time.sleep(5)   
 
-
+#.
 # =============================
 # 5. HYBRID MODEL IDEA (WRITE IN REPORT)
 # =============================
